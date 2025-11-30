@@ -254,3 +254,9 @@ Feel free to submit issues and pull requests!
 
 - Built with [gopsutil](https://github.com/shirou/gopsutil) for system metrics
 - Divoom Pixoo 64 API documentation
+
+## Support
+
+If you find this project helpful, consider supporting me on Ko-fi!
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/scttfrdmn)
